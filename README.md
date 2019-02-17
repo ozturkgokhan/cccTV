@@ -1,3 +1,15 @@
+# Test branch for cccTV project to implement Espresso/Kotlin tests for AndroidTV 
+There is not too much **Android TV testing projects** build on **Espresso** library, especially for SW engineers in test and I thought it would be a valuable information for who wants to get more familiar with the concept. Thanks to developers of the main application that I had a chance to play around with a real working public **OTT Android TV app** for testing purposes.
+
+I will try to commit more tests and refactor the test to implement some of the sw design patterns, in time. 
+
+
+
+*ORIGINAL README goes below..*
+
+
+## Original Readme for cccTV projects is below
+
 [![Apache License](http://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](http://choosealicense.com/licenses/apache-2.0/)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Get_it_on_Google_play.svg" alt="Get it on Google Play" width="230">][play] &nbsp;&nbsp;&nbsp; **OR** &nbsp;&nbsp;&nbsp; [<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appsstore-us-black-v2.png" alt="Available at Amazon AppStore" width="210">][amazon] &nbsp;&nbsp;&nbsp; **OR** &nbsp;&nbsp;&nbsp; [Download an APK][releases]
