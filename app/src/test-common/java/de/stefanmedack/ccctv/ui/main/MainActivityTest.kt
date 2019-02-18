@@ -7,6 +7,7 @@ import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
 
+
 @RunWith(AndroidJUnit4::class)
 class MainActivityTest {
 
@@ -15,10 +16,12 @@ class MainActivityTest {
     var mActivityTestRule = ActivityTestRule(MainActivity::class.java)
 
     @Test
-    fun mainActivityTest() {
+    fun navigateToCongress() {
 
         Thread.sleep(5000)
         val menuScreen = MenuScreen()
         menuScreen.tapMenuItem("Congress")
     }
+
+
 }
